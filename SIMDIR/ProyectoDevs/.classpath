@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/SIMDIR/DEVS-Suite-5.0.zip"/>
+	<classpathentry kind="lib" path="C:/SIMDIR/DEVS-Suite-Mixed_Win64_4.0.0 (1).zip"/>
+	<classpathentry kind="lib" path="C:/SIMDIR/DEVS-Suite-Src-2.1.0.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Cecilia/Downloads/DEVS-Suite-2.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
